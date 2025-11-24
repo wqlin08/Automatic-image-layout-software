@@ -45,7 +45,7 @@
 2.  **Layout:** Choose `Grid` mode, set the number of columns (e.g., Fixed Columns: 2). Adjust `X-Dist` and `Y-Dist` for spacing.
 3.  **Labeling:**
     *   Drag label `(a)` on the preview canvas to the perfect spot.
-    *   Click the **`Smart Sync`** button to align the rest.
+    *   Click the **`Auto Sync`** button to align the rest.
 4.  **Export:** Set your desired DPI (e.g., 300) and click `Save Image`.
 
 ### 📥 Download
