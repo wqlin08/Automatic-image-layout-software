@@ -4,7 +4,6 @@
 > **无需再手动组图排版**
 
 ![Software Screenshot](fig.jpg)
-*(Screenshot: Automatic layout with smart label synchronization)*
 
 ---
 
