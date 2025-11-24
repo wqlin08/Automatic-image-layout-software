@@ -23,7 +23,6 @@
 2.  **Smart Label Synchronization (Highlight!)**
     *   **Anchor-based Sync:** Drag the first label `(a)` to your desired position on the first image.
     *   **One-Click Align:** Click the **"Suto Sync"** button, and labels `(b)`, `(c)`, `(d)`... will automatically move to the **exact same relative position** on their respective images.
-    *   **No more manual alignment needed!**
 
 3.  **Professional Annotation**
     *   **Academic Fonts:** Built-in support for standard fonts like **Arial** and **Times New Roman** and **Calibri** and **SimHei**.
@@ -58,7 +57,7 @@ If **AutoGrid** saved your time on your paper, please give me a **Star**, thanks
 
 ### Contact
 
-[geo.wqlin@gmail.com]
+geo.wqlin@gmail.com
 
 ---
 ---
@@ -77,9 +76,8 @@ If **AutoGrid** saved your time on your paper, please give me a **Star**, thanks
     *   **留白控制：** 轻松调整整个组图的外边距（留白）。
 
 2.  **智能标签同步**
-    *   **锚点同步：** 只需要将第一个图片的序号 `(a)` 拖动到你满意的相对位置。
+    *   **锚点同步：** 只需要将第一个图片的序号 `(a)` 拖动到满意的相对位置。
     *   **一键对齐：** 点击 **“智能同步”** 按钮，后续所有图片的序号 `(b)`, `(c)`... 会自动跳转到**完全一致的相对位置**。
-    *   **从此不再需要用肉眼逐个对齐序号！**
 
 3.  **专业标注设置**
     *   **学术字体：** 内置支持 **Arial** 、 **Times New Roman** 、 **Calibri** 以及 **SimHei** 等论文常用字体。
@@ -91,7 +89,7 @@ If **AutoGrid** saved your time on your paper, please give me a **Star**, thanks
     *   **排序调整：** 列表式管理，轻松上移或下移调整图片顺序。
 
 5.  **高清导出**
-    *   **自定义 DPI：** 可设置 300 或 600 DPI，满足期刊投稿对清晰度的严格要求。
+    *   **自定义 DPI：** 可设置不同的DPI，满足期刊投稿对清晰度的严格要求。
     *   **格式选择：** 导出为 PNG, JPG 或 TIFF 格式。
 
 ### 使用指南
@@ -114,4 +112,4 @@ If **AutoGrid** saved your time on your paper, please give me a **Star**, thanks
 
 ### 联系
 
-[geo.wqlin@gmail.com]
+geo.wqlin@gmail.com
