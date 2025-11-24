@@ -27,7 +27,7 @@
     *   **No more manual alignment needed!**
 
 3.  **🔤 Professional Annotation**
-    *   **Academic Fonts:** Built-in support for standard fonts like **Arial** and **Times New Roman**.
+    *   **Academic Fonts:** Built-in support for standard fonts like **Arial** and **Times New Roman** and **Calibri** and **SimHei**.
     *   **Rich Styling:** Adjustable font size, bold toggle, and customizable label format.
 
 4.  **🖼️ Image Handling**
@@ -44,7 +44,6 @@
 1.  **Import:** Click `Add Images` to load your source files.
 2.  **Layout:** Choose `Grid` mode, set the number of columns (e.g., Fixed Columns: 2). Adjust `X-Dist` and `Y-Dist` for spacing.
 3.  **Labeling:**
-    *   Check the box to enable labeling.
     *   Drag label `(a)` on the preview canvas to the perfect spot.
     *   Click the **`Smart Sync`** button to align the rest.
 4.  **Export:** Set your desired DPI (e.g., 300) and click `Save Image`.
@@ -85,7 +84,7 @@ MIT License © 2024 [Your Name/GitHub Username]
     *   **从此不再需要用肉眼逐个对齐序号！**
 
 3.  **🔤 专业标注设置**
-    *   **学术字体：** 内置支持 **Arial** 和 **新罗马 (Times New Roman)** 等论文常用字体。
+    *   **学术字体：** 内置支持 **Arial** 、 **Times New Roman** 、 **Calibri** 以及 **SimHei** 等论文常用字体。
     *   **丰富样式：** 支持调节字号、加粗，以及自定义序号生成格式。
 
 4.  **🖼️ 图片处理**
@@ -102,7 +101,6 @@ MIT License © 2024 [Your Name/GitHub Username]
 1.  **导入：** 点击 `添加图片` 按钮导入素材文件。
 2.  **布局：** 选择 `网格` 模式，设置列数（例如定列：2）。调整 XY 间距和留白。
 3.  **标注：**
-    *   在设置中勾选开启标注。
     *   在右侧预览区，鼠标拖拽 `(a)` 到你想要的位置。
     *   点击 **`智能同步`** 按钮，其余序号自动对齐。
 4.  **导出：** 设置 DPI（如 300），点击 `保存图片`。
