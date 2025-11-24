@@ -57,9 +57,9 @@
 
 If **AutoGrid** saved your time on your paper, please give me a **Star** ⭐!
 
-### 📄 License
+### 📄 Contact
 
-MIT License © 2025 [geo.wqlin@gmail.com]
+[geo.wqlin@gmail.com]
 
 ---
 ---
@@ -113,6 +113,6 @@ MIT License © 2025 [geo.wqlin@gmail.com]
 
 如果 **AutoGrid** 帮你节省了写论文的时间，请给我点一个 **Star** ⭐！
 
-### 📄 许可证
+### 📄 联系
 
-MIT License © 2025 [geo.wqlin@gmail.com]
+[geo.wqlin@gmail.com]
