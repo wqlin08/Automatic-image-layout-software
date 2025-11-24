@@ -50,7 +50,6 @@
 
 ### 📥 Download
 
-Get the latest executable (`.exe`) from the **[Releases Page](../../releases)**.
 *   **Portable:** No installation required, just unzip and run.
 *   **Platform:** Windows 10/11.
 
@@ -107,7 +106,6 @@ MIT License © 2024 [Your Name/GitHub Username]
 
 ### 📥 下载
 
-请前往 **[Releases 页面](../../releases)** 下载最新的 `.exe` 文件。
 *   **绿色版：** 无需安装，解压即用。
 *   **平台：** Windows 10/11。
 
