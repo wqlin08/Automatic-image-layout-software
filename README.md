@@ -23,7 +23,7 @@
 
 2.  **🧠 Smart Label Synchronization (Highlight!)**
     *   **Anchor-based Sync:** Drag the first label `(a)` to your desired position on the first image.
-    *   **One-Click Align:** Click the **"Smart Sync"** button, and labels `(b)`, `(c)`, `(d)`... will automatically move to the **exact same relative position** on their respective images.
+    *   **One-Click Align:** Click the **"Suto Sync"** button, and labels `(b)`, `(c)`, `(d)`... will automatically move to the **exact same relative position** on their respective images.
     *   **No more manual alignment needed!**
 
 3.  **🔤 Professional Annotation**
