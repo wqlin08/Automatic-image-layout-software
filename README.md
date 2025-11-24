@@ -8,7 +8,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### 📖 Introduction
 
@@ -59,12 +59,12 @@ If **AutoGrid** saved your time on your paper, please give me a **Star** ⭐!
 
 ### 📄 License
 
-MIT License © 2024 [Your Name/GitHub Username]
+MIT License © 2025 [geo.wqlin@gmail.com]
 
 ---
 ---
 
-## 🇨🇳 中文说明
+## 中文说明
 
 ### 📖 简介
 
@@ -115,4 +115,4 @@ MIT License © 2024 [Your Name/GitHub Username]
 
 ### 📄 许可证
 
-MIT License © 2024 [Your Name/GitHub Username]
+MIT License © 2025 [geo.wqlin@gmail.com]
