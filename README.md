@@ -20,7 +20,7 @@
     *   **Custom Spacing:** Precisely control X-axis and Y-axis gaps using sliders.
     *   **Margins:** Easily adjust the outer white margins of the entire figure.
 
-2.  **Smart Label Synchronization (Highlight!)**
+2.  **Smart Label Synchronization**
     *   **Anchor-based Sync:** Drag the first label `(a)` to your desired position on the first image.
     *   **One-Click Align:** Click the **"Suto Sync"** button, and labels `(b)`, `(c)`, `(d)`... will automatically move to the **exact same relative position** on their respective images.
 
