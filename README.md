@@ -3,7 +3,7 @@
 > **Stop aligning figures manually in PowerPoint!**  
 > **彻底告别在 PPT 中手动对齐图片的痛苦时光！**
 
-![Software Screenshot](fig.png)
+![Software Screenshot](fig.jpg)
 *(Screenshot: Automatic layout with smart label synchronization)*
 
 ---
